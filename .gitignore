@@ -61,3 +61,6 @@
 # IDE Project files
 /.idea
 /upload/.idea
+
+# Ignore key files
+*.key
